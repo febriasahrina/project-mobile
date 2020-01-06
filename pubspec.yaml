@@ -1,5 +1,5 @@
-name: loginui
-description: A new Flutter project.
+name: flutter_maps
+description: Implementing google maps in flutter
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
@@ -17,22 +17,23 @@ environment:
   sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
-  font_awesome_flutter: ^8.5.0 #for facebook icon
   flutter:
     sdk: flutter
+  google_maps_flutter: ^0.5.5
+  font_awesome_flutter: ^8.4.0
+  line_icons: ^0.2.0
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
 
 dev_dependencies:
-  
   flutter_test:
     sdk: flutter
 
 
 # For information on the generic Dart part of this file, see the
-# following page: https://dart.dev/tools/pub/pubspec
+# following page: https://www.dartlang.org/tools/pub/pubspec
 
 # The following section is specific to Flutter.
 flutter:
@@ -44,18 +45,19 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-   - Assets/image1.png
-   - Assets/image2.png
-   
+    - assets/images/museumrahmat.jpg
+    - assets/images/tjongafie.jpeg
+    - assets/images/istana_maimun.jpg
+    - assets/images/kampungmadras.jpg
+    - assets/images/velangkanni.jpg
+    - assets/images/tirtanadi.jpg
+    - assets/images/febria.jpg
 
-  
-
-  
   # An image asset can refer to one or more resolution-specific "variants", see
-  # https://flutter.dev/assets-and-images/#resolution-aware.
+  # https://flutter.io/assets-and-images/#resolution-aware.
 
   # For details regarding adding assets from package dependencies, see
-  # https://flutter.dev/assets-and-images/#from-packages
+  # https://flutter.io/assets-and-images/#from-packages
 
   # To add custom fonts to your application, add a fonts section here,
   # in this "flutter" section. Each entry in this list should have a
@@ -63,16 +65,9 @@ flutter:
   # list giving the asset and other descriptors for the font. For
   # example:
   fonts:
-    - family: SFUIDisplay
+    - family: Quicksand
       fonts:
-        - asset: Assets/sf-ui-display-light.otf
-  #       - asset: fonts/Schyler-Italic.ttf
-  #         style: italic
-  #   - family: Trajan Pro
-  #     fonts:
-  #       - asset: fonts/TrajanPro.ttf
-  #       - asset: fonts/TrajanPro_Bold.ttf
-  #         weight: 700
+        - asset: assets/fonts/Quicksand-Regular.ttf
   #
   # For details regarding fonts from package dependencies,
-  # see https://flutter.dev/custom-fonts/#from-packages
+  # see https://flutter.io/custom-fonts/#from-packages
