@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "820322659350",
+    "firebase_url": "https://medan-pocket-mob-1577964384211.firebaseio.com",
+    "project_id": "medan-pocket-mob-1577964384211",
+    "storage_bucket": "medan-pocket-mob-1577964384211.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820322659350:android:8ed3c1ecc541a036271937",
+        "android_client_info": {
+          "package_name": "com.tubes.medanpocket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820322659350-uqalcptafmtoek9816qupst1pl4ar95d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFwq_upBuKI8jRLEmZityxuNj4-48u2jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820322659350-uqalcptafmtoek9816qupst1pl4ar95d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
