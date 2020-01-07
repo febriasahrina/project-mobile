@@ -8,6 +8,7 @@ Kelompok 3
 - Rahmadhita Tri M (161402124)
 
 Deskripsi Aplikasi
+
 Medan Pocket adalah aplikasi mobile yang dibangun menggunakan bahasa pemrograman Dart yang bertujuan untuk membantu wisatawan mengetahui informasi mengenai lokasi wisata di kota Medan dengan mudah.
 
 Demo Program
