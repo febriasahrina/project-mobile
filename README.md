@@ -1,11 +1,14 @@
 TUBES MOBILE : MEDAN POCKET
 
 Kelompok 3
-- Deddy Sihombing
-- Febria Sahrina
-- Romzi Humam
-- Melati Anastasya
-- Rahmadhita Tri M
+- Deddy F. Sihombing (161402010)
+- Febria Sahrina (161402028)
+- M. Romzi Humam (161402085)
+- Melati Anastasya (161402096)
+- Rahmadhita Tri M (161402124)
+
+Deskripsi Aplikasi
+Medan Pocket adalah aplikasi mobile yang dibangun menggunakan bahasa pemrograman Dart yang bertujuan untuk membantu wisatawan mengetahui informasi mengenai lokasi wisata di kota Medan dengan mudah.
 
 Demo Program
 
