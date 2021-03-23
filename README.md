@@ -1,4 +1,4 @@
-TUBES MOBILE : MEDAN POCKET
+#Medan Pocket (Mobile Application)
 
 Kelompok 3
 - Deddy F. Sihombing (161402010)
